@@ -39,7 +39,7 @@ export interface GlobalContextParams {
 }
 
 export const defaultContext: GlobalContextParams = {
-    prefixCls: 'arco',
+    prefixCls: 'arco-mobile',
     system: '',
     useDarkMode: false,
     isDarkMode: false,
