@@ -6,7 +6,7 @@ function getGlobalTokens() {
          * 类前缀，需配合 context-provider 中的 prefixCls 使用
          * @en Classname prefix, it needs to be used with prefixCls in context-provider
          */
-        prefix: 'arco',
+        prefix: 'arco-mobile',
         /**
          * rem 转换使用的基础字号
          * @en Base font size used for rem conversion
