@@ -1,5 +1,5 @@
 {
-    "name": "@arco-design/mobile-react",
+    "name": "@yunti-private/arco-mobile-react",
     "version": "2.21.2",
     "description": "",
     "main": "cjs/index.js",
@@ -34,7 +34,7 @@
         "react-transition-group": ">=4.3.0"
     },
     "publishConfig": {
-        "access": "public"
+        "registry": "https://npm.bookln.cn"
     },
     "gitHead": "f226b3daa582369797ab83f5299c541252ebba82"
 }
