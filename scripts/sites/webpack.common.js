@@ -46,7 +46,8 @@ module.exports = {
                         options: {
                             javascriptEnabled: true,
                             modifyVars: {
-                                '@use-css-vars': 1
+                                '@use-css-vars': 1,
+                                "prefix": 'acro-mobile',
                             }
                         },
                     },
