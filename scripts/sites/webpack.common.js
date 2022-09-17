@@ -47,7 +47,7 @@ module.exports = {
                             javascriptEnabled: true,
                             modifyVars: {
                                 '@use-css-vars': 1,
-                                "prefix": 'acro-mobile',
+                                "prefix": 'arco-mobile',
                             }
                         },
                     },
