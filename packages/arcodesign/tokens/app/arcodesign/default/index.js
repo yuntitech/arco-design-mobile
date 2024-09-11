@@ -12,7 +12,7 @@ function getRem(px, baseFontSize) {
 }
 
 var tokens = {
-  "prefix": "arco",
+  "prefix": "arco-mobile",
   "base-font-size": "50",
   "background-color": "#ffffff",
   "font-color": "#1d2129",

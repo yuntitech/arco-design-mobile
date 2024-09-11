@@ -5211,9 +5211,9 @@
         "cssKey": "prefix",
         "desc": "类前缀，需配合 context-provider 中的 prefixCls 使用",
         "override": "",
-        "value": "arco",
-        "jsValue": "arco",
-        "staticValue": "arco",
+        "value": "arco-mobile",
+        "jsValue": "arco-mobile",
+        "staticValue": "arco-mobile",
         "localeDesc": {
             "ch": "类前缀，需配合 context-provider 中的 prefixCls 使用",
             "en": "Classname prefix, it needs to be used with prefixCls in context-provider"
