@@ -1,6 +1,6 @@
 {
     "name": "@yunti-private/arco-mobile-react",
-    "version": "2.21.4",
+    "version": "2.21.5",
     "description": "",
     "main": "cjs/index.js",
     "module": "esm/index.js",
